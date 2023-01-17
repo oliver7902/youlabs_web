@@ -834,7 +834,7 @@ header .nav-menu {
 .phase-img-box {
   background-color: #ffe1cb;
   border-radius: 90px;
-  min-height: 570px;
+  min-height: 400px;
   position: relative;
 }
 
@@ -1297,7 +1297,8 @@ footer {
 .footer-cont p {
   font-weight: 600;
   text-align: center;
-  padding-bottom: 80px;
+    padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .footer-cont .social-icon {
